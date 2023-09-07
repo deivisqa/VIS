@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_inicio</name>
+   <tag></tag>
+   <elementGuidId>e63345e0-9c19-42a6-b0af-70f9482fd8b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cmMenuMPCentro > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cmMenu1']/a/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inicio</value>
+      <webElementGuid>c94d4c43-3603-4f25-984d-8da53d03f8e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cmMenu1']/a/div[2]/div[2]/div</value>
+      <webElementGuid>76d640bc-ab36-4c15-a3c2-d4dedb3764da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='text'])[1]/following::div[10]</value>
+      <webElementGuid>2a9242e2-c965-4beb-a42a-6e4a268ebe04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listado Clientes'])[1]/following::div[15]</value>
+      <webElementGuid>9aa9c4d9-fd6d-4bbf-a550-194562f52f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::div[4]</value>
+      <webElementGuid>b12585a5-0a19-4be4-abd2-864b8dddd7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administración de programa'])[1]/preceding::div[9]</value>
+      <webElementGuid>c3506f5c-8b25-4e25-ab19-802df1318024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inicio']/parent::*</value>
+      <webElementGuid>2a85ddcb-d7a2-40ce-a80b-019c48b1b247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div[2]/div</value>
+      <webElementGuid>28ba2d3e-0dda-4779-98e6-eeaed7021ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Inicio' or . = 'Inicio')]</value>
+      <webElementGuid>93c2e194-d976-4e7a-ae23-00376f715e8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

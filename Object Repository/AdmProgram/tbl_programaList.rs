@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tbl_programaList</name>
+   <tag></tag>
+   <elementGuidId>1e43e0dd-57d9-436d-b68f-ef054e68eeff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[@id='programaList']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id='programaList']</value>
+      <webElementGuid>8cf0af46-09c8-47e2-b3d6-a34906702800</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

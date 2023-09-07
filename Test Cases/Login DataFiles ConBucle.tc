@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inicio de sesión</description>
+   <name>Login DataFiles ConBucle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8618ba22-1c29-4318-87ca-f53d0089c1cf</testCaseGuid>
+</TestCaseEntity>

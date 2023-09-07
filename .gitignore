@@ -1,0 +1,22 @@
+# Directorios generados por Katalon Studio
+bin/
+Libs/
+Reports/
+Screenshots/
+output/
+settings/
+.build/
+
+# Archivos generados por Katalon Studio
+.cache/
+.classpath
+.project
+.settings/
+
+# Mantén estos archivos y directorios
+!output/.gitkeep
+
+# Directorios específicos de Git
+.git/
+.gradle/
+.svn/

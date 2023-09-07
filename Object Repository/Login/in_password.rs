@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>in_password</name>
+   <tag></tag>
+   <elementGuidId>618f1909-0e6b-448f-9670-978b9d5221dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#textfield2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='textfield2']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'textfield2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>textfield2</value>
+      <webElementGuid>ac2c84c9-b5ad-4ece-a3b7-57359ddd10ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='textfield2']</value>
+      <webElementGuid>bc4af52c-5120-4da0-85ce-dc3b863a7168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>3eb902ad-2015-451c-97f4-f01bbc87ba57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'txtpassword' and @id = 'textfield2']</value>
+      <webElementGuid>4498ffb5-59a6-4e32-8400-799be55318b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
