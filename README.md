@@ -3,4 +3,5 @@ VIS Automation
 Deivis
 Luciana
 Jonathan
+Sergio
 Stephen
