@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inicio de sesión</description>
+   <name>Login - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca86b55a-5383-4d30-a993-2cb4d3ba9344</testCaseGuid>
+</TestCaseEntity>
